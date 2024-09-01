@@ -9,6 +9,8 @@ I made a mock portfolio with an admin page that used a form to add, edit and del
 
 ![image](https://github.com/user-attachments/assets/71866ae0-b69d-4b97-8532-cd3ffaa6a7bd)
 
+![image](https://github.com/user-attachments/assets/7d6bc090-705f-4cc1-b1a9-56bc127ef511)
+
 and a projects page to display each project in a card format:
 
 ![image](https://github.com/user-attachments/assets/290ed8dd-49b0-47a9-b134-78d3e7688a4e)
