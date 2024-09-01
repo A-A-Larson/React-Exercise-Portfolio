@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "projectName": "Skynet",
+      "shortDescription": "An artificial neural network-based concious group mind and artificial general superintelligence. Just something I whipped up in my spare time.",
+      "mainImage": "https://www.shutterstock.com/image-illustration/robot-typing-on-computer-keyboard-600w-400106332.jpg",
+      "url": "https://github.com/",
+      "id": 1
+    },
+    {
+      "projectName": "Dyson Sphere",
+      "shortDescription": "I built an array of solar panels around the sun. This was a fun weekend project!",
+      "mainImage": "https://www.shutterstock.com/image-illustration/dyson-sphere-hypothetical-megastructure-that-600w-2193907071.jpg",
+      "url": "https://github.com/",
+      "id": 2
+    },
+    {
+      "projectName": "Hi World",
+      "shortDescription": "I've revolutionized software engineering with the most efficient iteration of \"Hello World\" yet! Using 30% less resources!",
+      "mainImage": "https://www.shutterstock.com/image-vector/hi-banner-speech-bubble-poster-600w-1482836018.jpg",
+      "url": "https://github.com/",
+      "id": 3
+    }
+  ]
+}
